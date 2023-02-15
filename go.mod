@@ -5,13 +5,13 @@ go 1.13
 require (
 	github.com/aws/aws-sdk-go v1.37.1
 	github.com/gofrs/flock v0.7.0
-	github.com/prometheus/client_golang v1.1.0
-	github.com/sirupsen/logrus v1.4.2
+	github.com/prometheus/client_golang v1.11.1
+	github.com/sirupsen/logrus v1.6.0
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/viper v1.4.0
 	go.hein.dev/go-version v0.1.0
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
-	gopkg.in/yaml.v2 v2.2.8
+	gopkg.in/yaml.v2 v2.3.0
 	k8s.io/api v0.16.8
 	k8s.io/apimachinery v0.16.8
 	k8s.io/client-go v0.16.8
